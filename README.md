@@ -5,7 +5,7 @@
 
 ## Project Description
 
-A password is randomly generated based on criteria that the user provides when prompted. 
+A password is randomly generated based on the criteria that user provides when prompted. 
 
 When the user clicks the button "Generate Password" they are first promoted for password length. If is outside the range of 8-50, the user is prompted to once again enter a password lengthw within the range. The prompt will loop until the user enters a valid number. 
 
