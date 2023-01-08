@@ -1,6 +1,7 @@
 # Password-generator
 
-/Users/cex/bootcamp/UK-VIRT-FE-PT-11-2022-U-LOLC/week-5-advanced-javascript-module/04-password-generator-lesson/challenge/assets/05-javascript-challenge-demo.png
+![05-javascript-challenge-demo](https://user-images.githubusercontent.com/26310201/211213333-a614ca98-bb30-489b-b835-23a674389538.png)
+
 
 ## Project Description
 
