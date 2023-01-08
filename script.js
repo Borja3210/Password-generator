@@ -1,3 +1,4 @@
+
 // The Password generator will provide a password with 10-64  characters based on criteria the user specifies.
 
 //Assignment Code + Event Listener to prompt questions when button pushed
@@ -29,7 +30,7 @@ function generatePassword() {
       // Repeat back how many characters the user will have  
       alert(`Your password will have ${confirmLength} characters`);
 
-  // Determine the parameters of password 
+    // Determine the parameters of password 
     var confirmSpecialCharacter = confirm("Click OK to confirm if you would like to include special characters");
     var confirmNumericCharacter = confirm("Click OK to confirm if you would like to include numeric characters");    
     var confirmLowerCase = confirm("Click OK to confirm if you would like to include lowercase characters");
@@ -43,8 +44,8 @@ function generatePassword() {
         var confirmLowerCase = confirm("Click OK to confirm if you would like to include lowercase characters");
         var confirmUpperCase = confirm("Click OK to confirm if you would like to include uppercase characters");   
     } 
-  
-   // Assign an action to the password parameters 
+
+      // Assign an action to the password parameters 
       var passwordCharacters = []
       
     if (confirmSpecialCharacter) {
@@ -81,3 +82,5 @@ function writePassword() {
   var passwordText = document.querySelector("#password");
 
   passwordText.value = password;
+
+}
