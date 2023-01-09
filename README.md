@@ -17,6 +17,6 @@ When all parameters have been defined, the password will appear within the passw
 
 N/A
 
-##License
+## License
 
 MIT license included
